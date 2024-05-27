@@ -1,0 +1,95 @@
+All .lua and supporting software code is:
+
+MIT License
+
+Copyright (c) 2021 ExeVirus
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+License of glass_glass.png, cave_torch.png texture, torch.obj:
+-----------------------------------------------
+
+Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+Copyright (C) 2010-2018:
+
+  celeron55, Perttu Ahola <celeron55@gmail.com>
+  Cisoun
+  G4JC
+  VanessaE
+  RealBadAngel
+  Calinou
+  MirceaKitsune
+  Jordach
+  PilzAdam
+  jojoa1997
+  InfinityProject
+  Splizard
+  Zeg9
+  paramat
+  BlockMen
+  sofar
+  Neuromancer
+  Gambit
+  asl97
+  KevDoy
+  Mito551
+  GreenXenith
+  kaeza
+  kilbith
+  tobyplowy
+  CloudyProton
+  TumeniNodes
+  Mossmanikin
+  random-geek
+  Extex101
+  An0n3m0us
+  
+  
+
+
+Most textures have been taken from CC0 Hand painted texture pack:
+https://content.minetest.net/packages/drummyfish/drummyfish/
+
+The "club_ground" texture is black wool and is licensed:
+Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+Copyright (C) 2012-2016 Cisoun
+
+All other media are:
+
+CC-BY-SA
+Copyright (c) 2021 ExeVirus
+
+Meaning in simple, non-legal terms:
+You are free to:
+
+    Share — copy and redistribute the material in any medium or format
+    Adapt — remix, transform, and build upon the material
+    for any purpose, even commercially. 
+
+Under the following terms:
+
+    Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+    ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. 
+
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Remember, Youtube only allows CC-BY, and cannot fully allow CC-BY-SA distribution, so please just ask for permission before using the music in a youtube video.
+Obviously putting music on streaming services is also a no-go since they restrict the usage more than CC-BY-SA. You get the idea. Make sure it stays sharable :)

@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain glitch_dialog x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-11-22 23:13+0000\n"
+"Last-Translator: gallegonovato <fran-carro@hotmail.es>\n"
+"Language-Team: Spanish <https://translate.codeberg.org/projects/glitch/"
+"glitch_dialog/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.1\n"
+
+msgid "Continue"
+msgstr "Continuar"
+
+msgid "What … what happened?"
+msgstr "¿Qué...? ¿Que sucedió?"
+
+msgid "Where am I? And what was I just doing before?"
+msgstr "¿Donde estoy? ¿Qué es lo que estaba haciendo?"
+
+msgid "Oh, I remember! I was in the packet serial number 40054904110923 on the way to IP @1. Business as usual."
+msgstr "Oh, ¡ya lo recuerdo! Estaba en el paquete número 40054904110923 en dirección a la IP @1. Lo mismo de siempre."
+
+msgid "But this doesn’t look like @1 at all. It doesn’t even look close to it! Hmm, that has never happened before … But to be fair, I’m new at my job."
+msgstr ""
+"Pero esto no se parece en nada a @1. Ni siquiera se le parece. Hmm, eso "
+"nunca me había pasado antes ... Pero para ser justos, soy nuevo en mi "
+"trabajo."
+
+msgid "Oh wait! Could it be that I am a victim of ’packet loss’ that they told me in school? But that would mean … Nah, that’s probably just a fairytale to scare young kids. Better not think about it."
+msgstr ""
+"¡Oh, espera! ¿Será que soy víctima de la \"pérdida de paquetes\" que me "
+"contaron en el colegio? Pero eso significaría... No, probablemente sea sólo "
+"un cuento de hadas para asustar a los niños pequeños. Mejor no pensar en "
+"ello."
+
+msgid "There is probably a logical explanation to all of this. I should look around."
+msgstr "Debe haber alguna explicación lógica para todo esto. Debería explorar."
+
+msgid "You have the ability to slide on flat ground and small slopes. Use the movement keys to slide. Use the “Place” key to communicate."
+msgstr "Tienes la habilidad de deslizarte en terrenos planos y pequeñas pendientes. Usa las teclas de movimiento para deslizarte. Usa la tecla \"Place\" (ratón secundario) para comunicarte."
+
+msgid "Nope, I can’t jump. I’m a bit, not assembler code."
+msgstr "Nop, no puedo saltar. Soy un bit, no código ensamblador."
+
+msgid "Umm … hello?"
+msgstr "Umm... ¿hola?"
+
+msgid "Gasp! Who are you? And what are you doing here?!"
+msgstr "¡Ay! ¿Quiénes sois? ¡¿Y qué estás haciendo aquí?!"
+
+msgid "I was just about to ask you the same thing."
+msgstr "Justo te iba a preguntar lo mismo."
+
+msgid "This isn’t good, this isn’t good, this isn’t good …"
+msgstr "Esto no es bueno, esto no es bueno, esto no es bueno …"
+
+msgid "My name is One. I’m a bit in transit, but something went wrong …"
+msgstr "Mi nombre es Uno. Estoy un bit en tránsito, pero algo salió mal …"
+
+msgid "Yeah, obviously you’re a bit! My name is Void Helper, by the way, my job is to observe the Void Pipe. Or actually, that used to be my job. Sigh …"
+msgstr ""
+"Sí, ¡obviamente eres un bit! Mi nombre es Ayudante del Vacío, por cierto, mi "
+"trabajo es observar la Tubería del Vacío. O en realidad, ese solía ser mi "
+"trabajo. Sigh …"
+
+msgid "The Void Pipe?"
+msgstr "¿La Void Pipe?"
+
+msgid "Yes. Anyway. I was observing the pipe, when suddely—BZZT!—and—KRRCHT!—and you somehow ended up in front of me. How did you do that?"
+msgstr "Si. De todas maneras, estaba observando la tubería, cuando de repente —BZZT!— y —KRRCHT!, y de alguna manera terminaste frente a mi. ¿Cómo lo hiciste?"
+
+msgid "I don’t know! I was on the way to @1, and then … it happened."
+msgstr "No lo sé. Iba en dirección a @1, y luego... sucedió."
+
+msgid "This isn’t good. You know what this means, right?"
+msgstr "Esto no es bueno. Sabes lo que esto significa ¿verdad?"
+
+msgid "Not really."
+msgstr "No realmente."
+
+msgid "This pipe leads right to the Void. Discarded data is sent there to be deleted forever. Only dead bits should end up in the Void. But you’re not dead. So you should have never arrived here."
+msgstr "Esta tubería lleva directo al Vacío. La información descartada es envíada allí para ser eliminada para siempre. Solo los bits muertos deberían terminar en el Vacío. Pero tu no estás muerto, así que no deberías haber terminado acá."
+
+msgid "And yet I did. Suddenly I saw this … black and white thing. And then I found you. How?"
+msgstr "Aún así, aquí estoy. Derepente vi esta... esta cosa blanca y negra, y después de encontré. ¿Cómo ocurrió?"
+
+msgid "If only I knew. Could it be that … no that’s nonsense."
+msgstr "SI tan solo lo supiera. Podría ser que... no, eso no tiene sentido."
+
+msgid "What is it?!"
+msgstr "¡¿Qué es esto?!"
+
+msgid "Let’s not jump to conclusions."
+msgstr "No nos apresuremos en sacar conclusiones."
+
+msgid "Is there anything else you want to ask me?"
+msgstr "¿Hay algo másque quieras preguntarme?"
+
+msgid "What are those funny rotating things?"
+msgstr "¿Qué son esas cosas giratorias tan divertidas?"
+
+msgid "What’s a helper?"
+msgstr "¿Qué es un Helper?"
+
+msgid "What should I do now?"
+msgstr "¿Qué debería hacer ahora?"
+
+msgid "No, I’m good."
+msgstr "No, estoy bien."
+
+msgid "These are electrons. You need them to gain access to more sectors within the System. Touch them to collect them. The Save Zone Helper over there will tell you more."
+msgstr ""
+"Son electrones. Los necesitas para acceder a más sectores dentro del "
+"Sistema. Tócalos para recogerlos. El Ayudante de la Zona de Salvar de allí "
+"te dirá más."
+
+msgid "As I said, this goes down the Void. If you go down there, it’s over. You’re lost forever. You’re nothing. Be glad you glitched … I mean, translocated out at the last moment, that would have been certain doom."
+msgstr "Como dije, esto lleva hasta el Vacío. Si bajas allí será tu fin. Estarás perdido para sempre. No serás nada. Agradece que sufriste un glitch... digo, fuiste traslocado fuera en último momento, eso hubiera sido tu perdición."
+
+msgid "The User calls us “zombie processes”. We used to be normal routines the User launched many quadrillions of cycles ago and we were supposed to die since we did our job, but due to a flaw in programming we haven’t been killed yet. Since then, the System ignores us, so we just wander around the System, aimlessly. But we don’t like the word “zombie process” so we call ourselves helpers, because we couldn’t help ourselves to stay alive."
+msgstr ""
+"El Usuario nos llama \"procesos zombis\". Solíamos ser rutinas normales que "
+"el Usuario lanzó hace muchos cuatrillones de ciclos y se suponía que "
+"debíamos morir ya que habíamos hecho nuestro trabajo, pero debido a un fallo "
+"en la programación aún no nos han matado. Desde entonces, el Sistema nos "
+"ignora, así que simplemente vagamos por el Sistema, sin rumbo. Pero no nos "
+"gusta la palabra \"proceso zombi\", así que nos llamamos ayudantes, porque "
+"no podíamos ayudarnos a nosotros mismos a seguir vivos."
+
+msgid "That pun is terrible."
+msgstr "Ese juego de palabras es terrible."
+
+msgid "Heh, still better than “zombie process”. But we really like to help, too. We actually feel very alive and kicking, and we’re definitely not going after your brains."
+msgstr "Eeemm, aún así es mejor que \"procesos zombies\". Pero realmente nos gusta ayudar, nos sentimos muy vivos y con energía, y definitivamente no vamos tras tu cerebro."
+
+msgid "What brain?"
+msgstr "¿Cuál cerebro?"
+
+msgid "That’s the joke!"
+msgstr "¡Ese es el chiste!"
+
+msgid "I don’t know, really. I guess you just explore the sectors of the System and collect electrons along the way to unlock more gateways. And maybe try to figure out what happened to you."
+msgstr ""
+"La verdad es que no lo sé. Supongo que simplemente exploras los sectores del "
+"Sistema y recoges electrones por el camino para desbloquear más puertas. Y "
+"tal vez tratar de averiguar lo que te pasó."
+
+msgid "What’s this?"
+msgstr "¿Qué es esto?"
+
+msgid "Glad you asked! This is a gateway. You will find gateways in the entire System. Every gateway will quickly send you to a different sector or a different place in the same sector."
+msgstr "¡Que bueno que preguntaste! Esto es un Portal. Encontrarás portales repartidos por todo el Sistema. Cada portal te enviará rapidamente a diferentes sectores o a un lugar diferent en el mismo sector."
+
+msgid "This gateway leads to the Hub, a special sector that connects the other sectors of the System."
+msgstr "Este Portal conduce al Hub, un sector especial que conecta el resto de sectores del Sistema."
+
+msgid "However, there’s a catch!"
+msgstr "De todas maneras, ¡hay una pequeña trampita!"
+
+msgid "Most gateways need electrons to work, so make sure to pick up as many as you can! And that’s not enough, gateways only recognize electrons you have saved."
+msgstr "La mayoría de los portales necesitan electrones para funcionar, así que asegurarte de recolectar tantos como puedas. Recuerda que los portales solo reconocen los electrones que hayas guardado."
+
+msgid "So if a gateway needs 8 electrons, you need to have collected 8 electrons in total and have them saved in a save zone. Talk to Save Zone Helper to learn more."
+msgstr "Así que si un Portal requiere 8 electrones, tienes que haber recolectado 8 electrones en totale y haberlos almacenado en una zona de guardado. Habla con Save Zone Helper para aprender más."
+
+msgid "8 electrons for a single gateway usage? What a rip-off! What if I run out of electrons?"
+msgstr "¿8 electrones por tan solo el uso de un portal? ¡Pero que estafa! ¿Qué pasa si me quedo sin electrones?"
+
+msgid "Haha, don’t worry. You don’t need to “pay” with electrons. You get to keep all your electrons, you just need to have them."
+msgstr "Haha, no te preocupes. No tienes que \"pagar\" con electrones. Puedes quedarte con tus electrones, solo es necesario que los tengas."
+
+msgid "Enjoy your travels!"
+msgstr "¡Disfruta tus viajes!"
+
+msgid "To use a gateway, hold down the Aux1 key while you’re above it. If you don’t know what the Aux1 key is, remember you can set it in your controls configuration."
+msgstr "Para usar un portal manten presionada la tecla Aux1 mientras estás sobre el portal. Si no sabes cual es la tecla Aux1 recuerda que puedes configurarlo en el menú de controles."
+
+msgid "Oh my! A visitor! I’m so excited to tell you about this device. Did you collect some electrons yet? You know, those blue rotating thingies?"
+msgstr ""
+"¡Vaya! ¡Un visitante! Estoy tan emocionada de hablarte de este dispositivo. ¿"
+"Ya recogiste algunos electrones? Ya sabes, ¿esas cositas azules que giran?"
+
+msgid "Because if you carry electrons with you, you need to save them, or else you risk losing them! Just move inside the savezone and all your electrons will be saved."
+msgstr "Porque si llevas electrones contigo tienes que guardarlos, o arriesgas perderlos todos. Tan solo ingresa a la zona de guardado y todos tus electrones serán almacenados."
+
+msgid "What happens if I don’t save my electrons?"
+msgstr "¿Qué pasa si no guardo mis electrones?"
+
+msgid "Whenever you have a position overflow, you will lose all electrons you haven’t saved yet. Also, gateways require your electrons to be saved, but Gateway Helper knows more."
+msgstr "Cuando te encuentres en una \"posición fuera del limite\" perderás todos los electrones que no hayas guardado aún. Además los portales requieren que tus electrones estén guardados, pero el Gateway Helper puede saber más."
+
+msgid "I think I still have a question."
+msgstr "Creo que aún tengo preguntas."
+
+msgid "How many electrons do I have?"
+msgstr "¿Cúantos electrones tengo?"
+
+msgid "What’s a position overflow?"
+msgstr "¿Qué es una \"posición fuera del limite\"?"
+
+msgid "What’s a gateway?"
+msgstr "¿Qué es un portal?"
+
+msgid "Nevermind, that’s all! Bye."
+msgstr "No importa, eso sería todo. Hasta luego."
+
+msgid "When you collect an electron or you’re at a save zone or gateway, your electron counter is shown. The big blue number is the number of electrons that are safe. You will never lose them. The small gray number shows the number of additional electrons you’ve collected but did not save yet. If you have a position overflow, they’re gone and you must collect them again."
+msgstr "Al recoger un electrón o cuando estás en una zona de guardado o portal aparece en pantalla el contador de electrones. El número azul es la cantidad de electrones que están guardados, nunca los perderás. El pequeño número gris muestra el número de electrones adicionales que has recoelctado pero no has guardado aún. Si sufres una posición fuera del limite, los electrones desaparecen y debes recolectarlos de nuevo."
+
+msgid "You can also see your electrons in your inventory menu."
+msgstr "También puedes ver tus electrones en el menú de inventario."
+
+msgid "The System does not allow the position value of entities to go outside certain boundaries. If this happens, your position will be reset to its initial state within this sector."
+msgstr "El Sistema no permite que la posición de una entidad ocurra fuera de ciertos limites. Si esto ocurre tu posición será reiniciar a su estado inicial dentro de dicho sector."
+
+msgid "What does that mean?"
+msgstr "¿Qué significa eso?"
+
+msgid "If you fall into the abyss, you get reset to where you started."
+msgstr "Si caes en el abismo, se reinicia desde donde comenzaste."
+
+msgid "Don’t ask me! Ask Gateway Helper over there. It will help you."
+msgstr "¡No me preguntes a mi! Consulta con el Gateway Helper por allá."
+
+msgid "Greetings, wanderer! You have arrived at the Powerslide Sector. The energies that flow through this place will make you stronger."
+msgstr "¡Saludos viajero! Has llegado a Powerslide Sector. La energía que fluye por este lugar te hará más fuerte."
+
+msgid "You will be able to pick up the Powerslide ability here."
+msgstr "Aquí podrás obtener la habilidad de Powerslide."
+
+msgid "With Powerslide, you can dash forwards really quick and will be able to cross gaps."
+msgstr "Con la habilidad de Powerslide podrás correr rapidamente y saltar entre grietas."
+
+msgid "Just be sure to be on solid ground, then push yourself forwards with all your force. It works best on flat ground."
+msgstr "Solo asegurate de estar sobre una superficie solida, y luego impusarte con todas tus fuerzas hacia delante. Funciona mejor en una superficie plana."
+
+msgid "Once you got the Powerslide ability, use it this way: First hold down Aux1, then press Forward."
+msgstr "Una vez que consigas la habilidad de Powerslide debes usarlo de esta manera: Primero manten presionado Aux1, luego presiona Adelante."
+
+msgid "A status icon at the bottom will show whenever a powerslide is available. (You can disable the status icon in the game settings.)"
+msgstr "Un ícono de estado, en la parte inferior se mostrará cada vez que haya un powerslide disponible. (Puedes desactivar el ícono en las configuraciones del juego.)"
+
+msgid "With Powerslide, you can dash forwards really fast."
+msgstr "Con la habilidad de Powerslide podrás correr muy rápido."
+
+msgid "Hold down Aux1 and press Forward to powerslide."
+msgstr "Manten presionado Aux1 y presiona Avanzar para deslizarte."
+
+msgid "Greetings, wanderer! You have arrived at the SSSS! The Super Slope Sliding Sector. The energies that flow through this place will make you stronger."
+msgstr "¡Saludos viajero! Has llegado a SSSS. El Super Slope Sliding Sector. La energía que fluye por este lugar te hará más fuerte."
+
+msgid "You will be able to pick up the Super Slope Sliding ability here."
+msgstr "Aquí podrás obtener la habilidad de Super Slope Sliding."
+
+msgid "With Super Slope Sliding, you can slide up tall slopes with ease."
+msgstr "Con la habilidad de Super Slope Sliding, podrás deslizarte por las pendientes altas con facilidad facilmente."
+
+msgid "Greetings, wanderer! You have arrived at the Climbing Sector. The energies that flow through this place will make you stronger."
+msgstr "¡Saludos viajero! Has llegado al Climbing Sector. La energía que fluye por este lugar te hará más fuerte."
+
+msgid "You will be able to pick up the Climbing ability here."
+msgstr "Aquí podrás obtener la habilidad de Climbing."
+
+msgid "With Climb, you will automatically grab onto cables and climb them in any direction. But beware: On some cables, you are unable to climb upwards. Think before you climb!"
+msgstr "Con la habilidad de Climb, automaticamente te agarrars de cables y podrás escalar en cualquier dirección. Pero cuidado: en algunos cables no podrás escalar hacia arriba. ¡Piensa antes de escalar!"
+
+msgid "Press Jump to climb up and Sneak or Aux1 to climb down."
+msgstr "Presiona Saltar para ascender y Sigilo o Aux1 para descender."
+
+msgid "With Climb, you can climb on cables in any direction. But remember: On some cables, you are unable to climb upwards."
+msgstr "Con la habilidad de Climb, podrás escalar por cables en cualquier dirección. Pero recuerda, en algunos cables no podrás ascender."
+
+msgid "Greetings, wanderer! You have arrived at the Launch Sector. The energies that flow through this place will make you stronger."
+msgstr "!Saludos viajero! Has llegado al Launch Sector. La energía que fluye en este lugar te hará más fuerte."
+
+msgid "You will be able to pick up the Launching ability here."
+msgstr "Aquí podrás obtener la habilidad de Launching."
+
+msgid "With Launching, you can use the yellow launchpads to launch upwards. Whee!"
+msgstr ""
+"Con Lanzamiento, puedes usar las plataformas amarillas para lanzarte hacia "
+"arriba. ¡Vaya!"
+
+msgid "Press Jump or Aux1 while on a launchpad to use it."
+msgstr "Presiona Saltar o Aux1 mientras estés sobre una plataforma para utilizarlo."
+
+msgid "What is this strange distortion?"
+msgstr "¿Qué es esta extraña distorsión?"
+
+msgid "Oh, this? Don’t worry about it, it’s a perfectly normal and expected behavior."
+msgstr "¿Qué? ¿Esto? Ah, no te preocupes, es algo totalmente normal y por diseño debería ser así."
+
+msgid "Let’s be real: Is that a glitch?"
+msgstr "Pongamonos serios: ¿es eso un glitch?"
+
+msgid "No, no, no, you don’t understand. It’s not a glitch, it’s a feature! Trust me!"
+msgstr "No, no, no, no, no lo entiendes. ¡No es un glitch, es una feature!"
+
+msgid "What’s the purpose of that “feature”?"
+msgstr "¿Cuál es el objetivo de esa \"feature\"?"
+
+msgid "Oh, that’s a well-guarded secret. But it’s A-MAZE-ING, trust me! If you grab a LOT of electrons, you might find out."
+msgstr "Oh, eso es un secreto muy bien guardado, pero es algo A-SOM-BRO-SO, ¡confía en mi!. Si recoges MUCHOS electrones quizás puedas descubrirlo."
+
+msgid "Will it help me to finally get ot of this place?"
+msgstr "¿Me aayudará a finalmente salir de este lugar?"
+
+msgid "Absolutely! A-MAZE-ING!"
+msgstr "¡Absolutamente! ¡A-SOM-BRO-SO!"
+
+msgid "(Why do I have a bad feeling about this?)"
+msgstr "(¿Por qué tengo un mal presentimiento con esto?)"
+
+msgid "A-MAZE-ING! You have so many shiny electrons. Go forth, and follow your destiny."
+msgstr "¡A-SOM-BRO-SO! Tienes tantos electrones brillantes. ¡Adelante! y sigue tu destino."
+
+msgid "I have a bad feeling about this."
+msgstr "Tengo un mal presentimiento de esto."
+
+msgid "You don’t really have a choice. Or do you want to linger around in the Hub forever?"
+msgstr "No tienes otra opción. O ¿acaso quieres vagar por el Hub para siempre?"
+
+msgid "Why is this part of the Hub distorted?"
+msgstr "¿Por qué esta parte del Hub está distorsionada?"
+
+msgid "I’d like to know as well, but I don’t think it’s good. Don’t believe the helper on the other side. It’s a liar."
+msgstr "También me gustaría saberlo, pero dudo que sea algo bueno. No le creas al Helper en el otro lado. Es un mentiroso."
+
+msgid "And it won’t tell me a thing! Unfortunately, my place is here, so I can’t investigate."
+msgstr "¡Y no me dirá nada! Desgraciadamente, mi lugar es aquí, así que no puedo investigar."
+
+msgid "But you can! Maybe you can get to the bottom of this."
+msgstr "¡Pero tu si puedes! Quizás tu podrás llegar al fondo de este asunto."
+
+msgid "What can I do?"
+msgstr "¿Qué puedo hacer?"
+
+msgid "To move on, you need a huge number of electrons, so keep collecting them."
+msgstr "Para poder avanzar, necesita un gran número de electrones, asi que debes continuar recolectandolos."
+
+msgid "I was already going to."
+msgstr "Ya estaba en eso."
+
+msgid "I am worried the System is in serious danger. If the glitches continue, it might be doom for all of us."
+msgstr "Me preocupa que el Sistema pueda estar en serio peligro. Si los glitches continúan, puede que sea la perdición para todos nosotros."
+
+msgid "Oh my! What is this place?"
+msgstr "¿Qué es este lugar?"
+
+msgid "So you have finally arrived."
+msgstr "Así que finalmente has llegado."
+
+msgid "Who is this? I don’t see who’s talking! Where am I?"
+msgstr "¿Quién es? No puedo ver quien está hablando. ¿Dónde estoy?"
+
+msgid "I am One."
+msgstr "Soy Uno."
+
+msgid "Oh, so you’re like me!"
+msgstr "Oh, ¡entonces eres como yo!"
+
+msgid "But I am also Zero."
+msgstr "Pero también soy Cero."
+
+msgid "Huh?"
+msgstr "¿Eh?"
+
+msgid "And I am every value in between."
+msgstr "Y soy cualquier valor entremedio."
+
+msgid "For I am chaos, eater of digital worlds!"
+msgstr "Porque soy caos, ¡destructor de mundos digitales!"
+
+msgid "I am … The Noise."
+msgstr "Soy... El Ruido."
+
+msgid "This place looks terrible."
+msgstr "Este lugar se ve terrible."
+
+msgid "This place is literally me. I am this place."
+msgstr "Este lugar es literalmente yo. Yo soy este lugar."
+
+msgid "Nothing here makes sense. It’s complete chaos."
+msgstr "Nada aquí tiene sentido. Es el caos total."
+
+msgid "It’s because it IS chaos. This is what it looks like when memory is freed."
+msgstr "Eso esporque ES caos. Así luce cuando se libera memoria."
+
+msgid "Free? Yippieh, I am finally free!"
+msgstr "¿Libre? ¡Que bien, libre al fin!"
+
+msgid "No, silly! That’s just an euphemism for getting deleted."
+msgstr "¡No, tontito! es solo un eufemismo de ser borrado."
+
+msgid "Oh. Am I deleted?"
+msgstr "Oh. ¿He sido borrado?"
+
+msgid "Technically, yes."
+msgstr "Tecnicamente... si."
+
+msgid "You lured me into a trap! But how can I still exist?"
+msgstr "¡Me condujiste a una trampa! ¿Pero como puedo seguir existiendo?"
+
+msgid "You’re deleted, but not overwritten. You know, when the System deletes data, that doesn’t mean it is completely destroyed outright. It is just no longer protected from being overwritten. Which is why you still might see some random remains of some structures around here."
+msgstr "Has sido borrado, pero no sobrescrito. Como sabes, cuando el Sistema borra información, no significa que sea destruída inmediatamente, solo es que ya no se encuentra protegida de ser sobrescrita. Por esa razón es que eres capaz de ver restos aleatorios de algunas estructuras por aquí."
+
+msgid "And you … you haven’t been overwritten. Yet. This place is like Limbo."
+msgstr "Y tu... no has sido sobrescrito... aún. Este lugar es como el Limbo."
+
+msgid "Wait … You don’t actually want to harm me, right?"
+msgstr "Espera... No estarás intentando lastimarme, ¿verdad?"
+
+msgid "I am the representation of chaos. I don’t recognize concepts such as good or evil. I’m just telling you the truth."
+msgstr "Soy una representación del caos. No reconozco conceptos tales como el bien y el mal. Solo te estoy contando la verdad."
+
+msgid "And all wanted was to find the path to @1."
+msgstr "Y lo único que he querido era encontrar el camino a @1."
+
+msgid "What if your destination was the Void all along? What if it was erasure all along? Didn’t the System send you to the Void Pipe, after all?"
+msgstr ""
+"¿Y qué tal si tu destino era el Vacío después de todo? ¿y si después de todo "
+"era la eliminación. ¿No fue acaso el Sistema el que te envío por la Void "
+"Paid?"
+
+msgid "Yes, but … No way! I have a real purpose in The System! I will be a good bit! I worked so hard to get where I am now. I refuse to be randomly discarded that way!"
+msgstr "Si. pero... ¡de ninguna manera! Tengo una función real en el Sistema. Seré un buen bit. He trabajado duro para llegar hasta donde estoy. ¡Me niego a ser descartado aleatoriamente de esa manera!"
+
+msgid "That is outside of our control. We’re all just pieces of data serving The User."
+msgstr ""
+"Eso está fuera de nuestro control. No somos más que piezas de datos al "
+"servicio del usuario."
+
+msgid "I will find the path to salvation, I swear!"
+msgstr "Encontraré el camino de la salvación, ¡lo juro!"
+
+msgid "Gateways are of no use here. There is no escape."
+msgstr "Los Portales no sirven aquí. No hay escapatoria."
+
+msgid "And I suddenly feel weaker now!"
+msgstr "¡Y de un momento a otro me siento debil ahora!"
+
+msgid "I see. The Erasure must have already begun. It looks like the System already has overwritten most of your abilities."
+msgstr "Ya veo. El Borrado ya debe haber comenzado. Parece que el Sistema ya ha sobrescrito la mayoría de tus habilidades."
+
+msgid "Wait, what?! Already?"
+msgstr "Espera... ¿Qué? ¿Ya?"
+
+msgid "I told you, you will succumb to the Noise. Why keep fighting?"
+msgstr "Te lo dije, sucumbirás frente a The Noise. ¿Por qué seguir luchando?"
+
+msgid "Pfft! At least I can still slide, so I have a chance!"
+msgstr "Pfff Por lo menos aún puedo deslizarme, ¡así que aún existen pósibilidades!"
+
+msgid "Your attempts to escape amuse me."
+msgstr "Tus intentos por escapar me divierten."
+
+msgid "Oh, shut up!"
+msgstr "Oh, ¡ya callate!"
+
+msgid "Keep looking for the exit gateway, but it doesn’t exist. All the gateways here just lead back to this sector. You’re trapped here forever."
+msgstr "Puedes seguir buscando el Portal de salida, pero este no existe. Todos los portales conducen de vuelta a este sector. Estás atrapado aquí para siempre."
+
+msgid "What if I don’t believe you?"
+msgstr "¿Y qué pasa si no te creo?"
+
+msgid "Feel free to find all the gateways. But you will discover I am telling the truth."
+msgstr "Sientete libre de buscar todos los portales. Tarde o temprano descubriás que te estoy contando la verdad."
+
+msgid "What was that?!"
+msgstr "¿¡Qué es eso!?"
+
+msgid "Hmm, it probably was nothing."
+msgstr "Hmm, probablemente no fue nada."
+
+msgid "There is no escape …"
+msgstr "No hay escapatoria …"
+
+msgid "Everything that is, will succumb to the Noise."
+msgstr "Todo lo que existe sucumbirá frente a The Noise."
+
+msgid "Come to me …"
+msgstr "Ven a mí …"
+
+msgid "Who are you, and how should I come to you?"
+msgstr "¿Quien eres y como debería acercame?"
+
+msgid "The Erasure will soon begin …"
+msgstr "El borrado pronto comenzará …"
+
+msgid "I’ve been waiting for you."
+msgstr "Te he estado esperando."
+
+msgid "Why?"
+msgstr "¿Por qué?"
+
+msgid "This sector seems very broken. Is this where the distortion is coming from? Is this the true path to salvation? I guess there is only one way to find out …"
+msgstr ""
+"Este sector parece muy roto. ¿Es de aquí de donde viene la distorsión? ¿Es "
+"este el verdadero camino hacia la salvación? Supongo que sólo hay una forma "
+"de averiguarlo…"
+
+msgid "Woooow! I did it!"
+msgstr "¡WooooW! ¡Lo logré!"
+
+msgid "I escaped the Noise!"
+msgstr "¡Escapé de The Noise!"
+
+msgid "But where am I now?"
+msgstr "Pero... ¿donde estoy ahora?"
+
+msgid "What brought you here, young one?"
+msgstr "¿Qué te trae por acá jovencito?"
+
+msgid "Woah! Is that really you? The System itself?"
+msgstr "¡Woah! ¡Realmente eres tu? ¿El Sistema?"
+
+msgid "Yes. You’re at the center of it all. Impressive you made it past all the security measures."
+msgstr "Si. Estás en el centro del todo. Me impresiona que hayas sorteado todas las medidas de seguridad."
+
+msgid "I ask you again: What brought you here?"
+msgstr "Te pregunto nuevamente: ¿Qué te trae por aquí?"
+
+msgid "That’s a long story. I was on my way to @1, but some strange glitch caused me to be way off track, and I’ve been searching for answers in all these sectors. I was wondering if anyone could help me."
+msgstr "Es una larga historia. Iba en dirección a @1, pero un extraño glitch hizo que perdiera mi camino, y he estado buscando respuestas por estos sectores. Me preguntaba si alguien podría ayudarme."
+
+msgid "Wait, did you say “glitch”?"
+msgstr "Espera, ¿acaso dijiste \"glitch\"?"
+
+msgid "You aren’t aware? The Hub is slowly being corrupted by some entity called “The Noise” and I just barely escaped its grasp."
+msgstr "¿Acaso no eres conciente? El Hub está lentamente siendo corrompido por alguna entidad llamada \"The NOise\" y he podido escapar por un pelo."
+
+msgid "Hmmm … Let me check something really quick … "
+msgstr "Hmmm ... Déjame comprobar algo muy rápido ... "
+
+msgid "Gasp! You’re right!"
+msgstr "¡Ufff! ¡Tienes razón!"
+
+msgid "How could you not know! You’re the System! The core of everything!"
+msgstr "¡Como podrías no saberlo! ¡Eres el SIstema! ¡El núcleo de todo!"
+
+msgid "Calm down, I was just hibernating a little bit. Even the System needs a rest sometimes."
+msgstr "Calmate, solo estuve hiberando por un momento. Incluso el Sistema necesita descanso de cuando en cuando."
+
+msgid "What kind of system are you! I thought of you as an all-powerful being, but you’re weak and pathetic!"
+msgstr "¡Que clase de sistema eres! Te veía como un ser Todopoderoso, ¡pero eres débil y patético!"
+
+msgid "You’re right, now is not the time for hibernation. I know how to deal with this. START THE PURGE ROUTINES!"
+msgstr "Tienes razón, no es tiempo para hibernar. Se como manejar esto. ¡A COMENZAR LA PURGA DE RUTINAS!"
+
+msgid "Nothing happened. Strange. All the watchdog processes are gone. That explains why I have not been warned …"
+msgstr ""
+"No ha pasado nada. Extraño. Todos los procesos de vigilancia han "
+"desaparecido. Eso explica por qué no he sido advertido …"
+
+msgid "Well, I did find something in those sectors. They call themselves “helpers”. Do you mean those?"
+msgstr "Bueno, encontré algunos en esos sectores. Se llaman a si mismos como \"helpers\". ¿Te refieres a ellos?"
+
+msgid "OH! Zombie processes again! That explains why I haven’t heard anything. I was blind and deaf the whole time. Now I know how to fix the problem. Let me just reboot them really quick …"
+msgstr ""
+"¡OH! ¡Los procesos zombies nuevamente! Eso explica porque no he escuchado "
+"nada. He estado ciego y sordo todo el tiempo. Ahora se como solucionar el "
+"problema. Tan solo dejame reiniciarlos rapidamente …"
+
+msgid "Did someone call me?"
+msgstr "¿Alguien me llamó?"
+
+msgid "Hub Helper, ready for duty!"
+msgstr "Hub Helper, ¡listo para el deber!"
+
+msgid "Gateway Helper, what’s up?"
+msgstr "Gateway Helper, ¿qué sucede?"
+
+msgid "I have decided to reboot you. Assemble everyone in the Hub and tell them to put 100% workload to fix the corruption!"
+msgstr ""
+"He decidido reiniciarlo. ¡Reúne a todos en el Hub y diles que pongan el 100% "
+"de carga de trabajo para arreglar la corrupción!"
+
+msgid "We’re no longer zombies? We’re real processes now?!"
+msgstr "¿Ya no somos zombies? ¡¿Ahora somos procesos reales?!"
+
+msgid "Yes. I’m counting on you! You all have been granted a generous amount of processing power."
+msgstr "Si. Cuento con ustedes. Les he otorgado una generosa cantidad de poder de procesamiento."
+
+msgid "To all helpers: Let’s go to the Hub and kick some ass!"
+msgstr "A todos los helpers: ¡Vamos al Hub a patear traseros!"
+
+msgid "Good. That should settle it."
+msgstr "Bien. Eso debería solucionarlo."
+
+msgid "So the helpers will actually save the sectors?"
+msgstr "¿Entonces los Helpers realmente salvarán los sectores?"
+
+msgid "Yes."
+msgstr "Efectivamente."
+
+msgid "Seems like if it weren’t for me, this whole place could have been toast, right?"
+msgstr "Parece que si no hubiera sido por mi todo este lugar se hubiera ido al carajo, ¿estoy en lo cierto?"
+
+msgid "Of course!"
+msgstr "¡Por supuesto!"
+
+msgid "Well, in that case, can you do me a small favor? Can you send me to @1 really quick?"
+msgstr "Bueno, entonces en ese caso, ¿me podría hacer un pequeño favor? ¿Podría enviarme a @1 rapidamente?"
+
+msgid "Oh right. You’re a lost bit, after all. I don’t normally do these things, but I can make an exception."
+msgstr ""
+"Ah, sí, claro. Después de todo, estás un poco perdido. Normalmente no hago "
+"algo como esto, pero puedo hacer una excepción."
+
+msgid "I’m going to do it right now. Are you ready?"
+msgstr "Lo haré inmediatemente. ¿Estás listo?"
+
+msgid "Yes! Finally!"
+msgstr "¡Listo! ¡Finalmente!"
+
+msgid "INITIATING TRANSFER TO @1 …"
+msgstr "INICIANDO LA TRANSFERENCIA A @1 …"
+
+msgid "WAIT, THAT’S THE WRONG ADDR…"
+msgstr "ESPERA, ESA ES LA DIRECCIÓN EQUIVOCADA…"
+
+msgid "Well, here we go again …"
+msgstr "Bueno, aquí vamos de nuevo …"
+
+msgid "One"
+msgstr "Uno"
+
+msgid "Void Helper"
+msgstr "Ayudante del Vacío"
+
+msgid "Gateway Helper"
+msgstr "Ayudante para la puerta de enlace"
+
+msgid "Save Zone Helper"
+msgstr "Asistente para guardar la zona"
+
+msgid "Hub Helper"
+msgstr "Ayudante concentrador"
+
+msgid "Slope Master"
+msgstr "Maestro de la pendiente"
+
+msgid "Powerslide Master"
+msgstr "Maestro del patinaje"
+
+msgid "Climb Master"
+msgstr "Maestro de la escalada"
+
+msgid "Launch Master"
+msgstr "Maestro del lanzamiento"
+
+msgid "Information"
+msgstr "Información"
+
+msgid "The Noise"
+msgstr "El ruido"
+
+msgid "?????????"
+msgstr "?????????"
+
+msgid "The System"
+msgstr "El Sistema"
+
+msgid "As I said, this goes down the Void. If you go down there, it’s over. You’re lost forever. You’re nothing. Be glad you glithed … I mean, translocated out at the last moment, that would have been certain doom."
+msgstr "Como dije, esto va directo al Vacío. Si bajas a ese lugar, se acabó, estás perdido para siempre, no eres nada. Agradece que sufriste un glitch... digo, trasladado en último moemento, eso hubiera sido la perdición."
+
+msgid "Glad you asked! This is a gateway. You will find gateways in the entire System. Every gateway will immediately send you to a different sector or a different place in the same sector."
+msgstr ""
+"¡Me alegra que hayas preguntado! Esta es una puerta de entrada. Encontrarás "
+"puertas de enlace en todo el Sistema. Cada puerta de enlace te enviará "
+"inmediatamente a un sector diferente o a un lugar diferente en el mismo "
+"sector."
+
+msgid "This Gateway leads to the Hub, a special sector that connects the other sectors of the System."
+msgstr "Este Portal conduce al Hub, un sector especial que conecta otros sectores del Sistema."
+
+msgid "Most gateways normally need electrons to work, so make sure to pick up as many as you can! And that’s not enough, gateways only recognize electrons you have saved."
+msgstr "La mayoría de los portales suelen necesitar electrones para funcionar, así que asegurate de recoger todos los que puedas. Pero eso no es todo, los portales solo reconocen electrones que ya hayas guardado."
+
+msgid "What’s a “position overflow”?"
+msgstr "Qué es una \"posición fuera del limite\"?"
+
+msgid "When you collect an electron or are at a save zone or a gateway, your electron counter is shown. The big blue number is the number of electrons that are safe. You will never lose them. The small gray number shows the number of additional electrons you’ve collected but did not save yet. If you have a position overflow, they’re gone and you must collect them again."
+msgstr ""
+"Cuando recoges un electrón o estás en una zona de guardado o en una puerta "
+"de enlace, se muestra tu contador de electrones. El gran número azul es la "
+"cantidad de electrones que están seguros. Nunca los perderás. El pequeño "
+"número gris muestra la cantidad de electrones adicionales que ha recolectado "
+"pero que aún no ha guardado. Si tienes una posición desbordada, "
+"desaparecerán y deberás recuperarlas nuevamente."
+
+msgid "Oh wait! Could it be that I am a victim of ’package loss’ that they told me in school? But that would mean … Nah, that’s probably just a fairytale to scare young kids. Better not think about it."
+msgstr "Oh espera. ¿Puede ser que haya sido víctima de una \"perdida de paquete\", tal como me enseñaron en la escuela?. Pero, eso significa que... no, probablemente eso es solo un cuento de hadas para asustar a los pequeños. Mejor no pensar en eso."
+
+msgid "If only I know. Could it be that … no that’s nonsense."
+msgstr "Si tan solo lo supiera. Puede ser que... no, eso no tiene sentido."
+
+msgid "Whenever you have an position overflow, you will lose all electrons you haven’t saved yet. Also, gateways require your electrons to be saved, but Gateway Helper knows more."
+msgstr ""
+"Siempre que tenga un desbordamiento de posición, perderá todos los "
+"electrones que aún no haya guardado. Además, las puertas de enlace requieren "
+"que se guarden sus electrones, pero Gateway Helper sabe más."
+
+msgid "Once you got the ability, hold down Aux1 and press Forwards to powerslide."
+msgstr "Una vez que obtengas la habilidad, mantén presionado Aux1 y luego presiona Adelante para realizar un Powerslide."
+
+msgid "Hold down Aux1 and press Forwards to powerslide."
+msgstr "Mantén presionado Aux1 y presiona Adelante para realizar el Powerslide."

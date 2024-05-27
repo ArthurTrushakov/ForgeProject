@@ -1,0 +1,6 @@
+# How loud music is in the game
+glitch_music_gain (Music gain) float 0.1 0.0 1.0
+
+# If enabled, an ability status symbol may be shown
+# at the bottom of the screen.
+glitch_show_ability_status (Show ability status) bool true

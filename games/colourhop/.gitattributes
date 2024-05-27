@@ -1,0 +1,4 @@
+*.blend		export-ignore
+*.xcf		export-ignore
+*.svg		export-ignore
+*.sh		export-ignore

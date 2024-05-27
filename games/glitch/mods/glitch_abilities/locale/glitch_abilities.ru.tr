@@ -1,0 +1,24 @@
+# textdomain: glitch_abilities
+Ability gained:=Получена способность:
+Ability lost:=Утеряна способность:
+Give/remove yourself an ability or list abilities=Получить/утерять или вывести способности
+(add <ability>) | (remove <ability>) | list=(add <способность>) | (remove <способность>) | list
+No player.=Нет игрока.
+All abilities added.=Все способности получены.
+All abilities removed.=Все способности утеряны.
+Unknown ability.=Неизвестная способность.
+No abilities.=Нет способностей.
+Super Slope Sliding=Супер Склоноскольжение
+Can slide up tall slopes=Способность забираться на высокие горки
+Sliding=Скольжение
+Can slide on flat ground and small slopes=Способность скользить на плоских поверхностях и маленьких горках
+Press Forward/Backward/Left/Right key=Зажимай клавишу «Вперёд»/«Назад»/«Влево»/«Вправо»
+Power-Sliding=Рывок
+Can use small speed boosts on the floor=Способность делать быстрый порыв от земли
+Hold down Aux1 and press Forward=Зажми «Aux1» и нажми «Вперёд»
+Climbing=Лазанье
+Can climb at certain places=Способность лазить по кабелям
+Press Jump to climb up; press Sneak key to climb down=Зажми «Прыжок» для поднятия; зажми «Красться» для спуска
+Launching=Пуск
+Can use launchpads=Способность прыгать на катапультах
+Hold down Aux1 or Jump key on a launchpad=Нажми «Aux1» или «Прыжок» на катапульте

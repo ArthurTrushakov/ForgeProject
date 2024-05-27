@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain glitch_nodes x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-11-12 21:13+0000\n"
+"Last-Translator: gallegonovato <fran-carro@hotmail.es>\n"
+"Language-Team: Spanish <https://translate.codeberg.org/projects/glitch/"
+"glitch_nodes/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.1\n"
+
+msgid "Solid (Grid Style)"
+msgstr "Sólido (estilo cuadrícula)"
+
+msgid "Solid (Flat Style)"
+msgstr "Sólido (estilo plano)"
+
+msgid "Solid (Concentric Style)"
+msgstr "Sólido (estilo concéntrico)"
+
+msgid "Solid (Tile Style)"
+msgstr "Sólido (estilo baldosa)"
+
+msgid "Seethrough"
+msgstr "A través de"
+
+msgid "Gateway"
+msgstr "Puerta de enlace"
+
+msgid "Resetter"
+msgstr "Reiniciador"
+
+msgid "Resetter (no blackout)"
+msgstr "Reiniciador (sin apagón)"
+
+msgid "Invisible Barrier"
+msgstr "Barrera invisible"
+
+msgid "System Node"
+msgstr "Nodo del sistema"
+
+msgid "Cable"
+msgstr "Cable"
+
+msgid "Cable (not climbable)"
+msgstr "Cable (no escalable)"
+
+msgid "Cable (no jump)"
+msgstr "Cable (sin salto)"
+
+msgid "Cable (no jump, not climbable)"
+msgstr "Cable (sin salto, no escalable)"
+
+msgid "Cable Connector"
+msgstr "Conector para cable"
+
+msgid "Cable Connector (no jump)"
+msgstr "Conector del cable (sin salto)"
+
+msgid "Weak Bouncer"
+msgstr "Rebote débil"
+
+msgid "Full Bouncer"
+msgstr "Saltarín"
+
+msgid "Super Bouncer"
+msgstr "Súper Saltarín"
+
+msgid "Launchpad"
+msgstr "Plataforma de lanzamiento"
+
+msgid "Lamp"
+msgstr "Bombilla"
+
+msgid "Darkness"
+msgstr "Tinieblas"
+
+msgid "Save Zone"
+msgstr "Zona segura"
+
+msgid "Save Zone Block"
+msgstr "Bloqueo de la zona de segura"
+
+msgid "White Noise"
+msgstr "Ruido blanco"
+
+msgid "White Noise (temporary)"
+msgstr "Ruido blanco (temporal)"
+
+msgid "White Noise (ceiling)"
+msgstr "Ruido blanco (techo)"
+
+msgid "White Noise (non-glowing)"
+msgstr "Ruido blanco (sin luz)"
+
+msgid "White Noise (movethrough)"
+msgstr "Ruido blanco (movimiento)"
+
+msgid "Rainbow Noise"
+msgstr "Ruido del arco iris"

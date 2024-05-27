@@ -1,0 +1,8 @@
+#    If true, Dragon breath will scorch/freeze nodes and Dragons will attempt to break blocks when stuck.
+terrain_destruction (Terrain Destruction) bool true
+
+#    Chance (by percentage of 100) for a special color to occur on one of Dragons potential color regions
+unique_color_chance (Unique Color Chance) float 65
+
+
+

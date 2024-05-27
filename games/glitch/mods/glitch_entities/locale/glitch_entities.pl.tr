@@ -1,0 +1,13 @@
+# textdomain: glitch_entities
++@1=+@1
+Show the list of your collected electrons=Pokaż listę zdobytych elektronów
+No player.=Brak graczy.
+Nothing collected.=Nic nie zdobyto.
+Safe electrons: @1=Bezpieczne elektrony: @1
+All electrons: @1=Wszystkie elektorny: @1
+Remove all your collected and saved electrons (cannot be undone)=Usuń wszystkie zdobyte i zapisane elektrony (nie można cofnąć)
+All your electrons are now gone.=
+Electron Spawner=
+Cube Spawner=
+Ability Spawner=
+Falling Bit Spawner=

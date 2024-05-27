@@ -1,0 +1,885 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain glitch_dialog x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: mtt_convert 0.1.0\n"
+
+msgid "Continue"
+msgstr "Далее"
+
+msgid "What … what happened?"
+msgstr "Что … что случилось?"
+
+msgid "Where am I? And what was I just doing before?"
+msgstr "Где я? Что я делал до этого?"
+
+msgid ""
+"Oh, I remember! I was in the packet serial number 40054904110923 on the way "
+"to IP @1. Business as usual."
+msgstr ""
+"О, вспомнил! Я был в пакете с серийным номером 40054904110923 по пути к IP "
+"@1. Обычное дело."
+
+msgid ""
+"But this doesn’t look like @1 at all. It doesn’t even look close to it! Hmm, "
+"that has never happened before … But to be fair, I’m new at my job."
+msgstr ""
+"Но это вовсе не выглядит как @1. Даже близко не похоже! Хмм, никогда такого "
+"не было … Честно говоря, я новенький на этой работе."
+
+msgid ""
+"Oh wait! Could it be that I am a victim of ’packet loss’ that they told me "
+"in school? But that would mean … Nah, that’s probably just a fairytale to "
+"scare young kids. Better not think about it."
+msgstr ""
+"Погодите-ка! Может ли быть, что я потерпел «потерю пакетов», о которой мне "
+"рассказывали в школе? Но это значит … Не-е, наверняка, это просто страшилки "
+"для маленьких детей. Лучше об этом не думать."
+
+msgid ""
+"There is probably a logical explanation to all of this. I should look around."
+msgstr ""
+"Возможно, всему этому есть логическое объяснение. Мне нужно осмотреться."
+
+msgid ""
+"You have the ability to slide on flat ground and small slopes. Use the "
+"movement keys to slide. Use the “Place” key to communicate."
+msgstr ""
+"У тебя есть способность скользить на плоскостях и небольших склонах. Чтобы "
+"скользить, воспользуйся клавишами передвижения. Нажми «Использовать» для "
+"общения."
+
+msgid "Nope, I can’t jump. I’m a bit, not assembler code."
+msgstr "Не-а, я не умею ПРЫГать. Я бит, а не код на ассемблере."
+
+msgid "Umm … hello?"
+msgstr "Ммм … привет?"
+
+msgid "Gasp! Who are you? And what are you doing here?!"
+msgstr "А! Ты кто? И что ты тут делаешь?!"
+
+msgid "I was just about to ask you the same thing."
+msgstr "Я как раз хотел спросить то же самое у тебя."
+
+msgid "This isn’t good, this isn’t good, this isn’t good …"
+msgstr "Это нехорошо, это нехорошо, это нехорошо …"
+
+msgid "My name is One. I’m a bit in transit, but something went wrong …"
+msgstr "Меня зовут Один. Я бит в транзите. Что-то пошло не так …"
+
+msgid ""
+"Yeah, obviously you’re a bit! My name is Void Helper, by the way, my job is "
+"to observe the Void Pipe. Or actually, that used to be my job. Sigh …"
+msgstr ""
+"Ага, разумеется — ты бит! Меня зовут Пусто Меля. Между прочим, моя работа — "
+"следить за Трубой Пустоты. Или, по правде … это было моей работой."
+
+msgid "The Void Pipe?"
+msgstr "Труба Пустоты?"
+
+msgid ""
+"Yes. Anyway. I was observing the pipe, when suddely—BZZT!—and—KRRCHT!—and "
+"you somehow ended up in front of me. How did you do that?"
+msgstr ""
+"Да. В общем. Я смотрел на трубой, как внезапно —БЗЗТ!—и—КЫЫЧЧТ!— и как-то ты "
+"материализовался передо мной. Как ты это сделал?"
+
+msgid "I don’t know! I was on the way to @1, and then … it happened."
+msgstr "Я не знаю! Я был по пути к @1, и вот … это всё."
+
+msgid "This isn’t good. You know what this means, right?"
+msgstr "Это нехорошо. Ты понимаешь, что это значит, так ведь?"
+
+msgid "Not really."
+msgstr "Не совсем."
+
+msgid ""
+"This pipe leads right to the Void. Discarded data is sent there to be "
+"deleted forever. Only dead bits should end up in the Void. But you’re not "
+"dead. So you should have never arrived here."
+msgstr ""
+"Эта труба ведёт прямо в Пустоту. Выброшенные данные отправляют туда за тем, "
+"чтобы быть удалёнными навсегда. Только мёртвые биты должны попадать в "
+"Пустоту. Но ты не мёртвый. Поэтому ты не должен был оказаться здесь."
+
+msgid ""
+"And yet I did. Suddenly I saw this … black and white thing. And then I found "
+"you. How?"
+msgstr ""
+"Тем не менее, я здесь. Я вдруг увидел эту … чёрно-белую штуку. И вот я нашёл "
+"тебя. Как так?"
+
+msgid "If only I knew. Could it be that … no that’s nonsense."
+msgstr "Если бы я только знал. Может, это был … да нет, ерунда какая-то."
+
+msgid "What is it?!"
+msgstr "Был что?!"
+
+msgid "Let’s not jump to conclusions."
+msgstr "Не будем делать поспешных выводов."
+
+msgid "Is there anything else you want to ask me?"
+msgstr "Ты хотел у меня что-то ещё спросить?"
+
+msgid "What are those funny rotating things?"
+msgstr "Что это за синие вертушки?"
+
+msgid "What’s a helper?"
+msgstr "Кто вы, Мели?"
+
+msgid "What should I do now?"
+msgstr "Что мне делать?"
+
+msgid "No, I’m good."
+msgstr "Нет, этого достаточно."
+
+msgid ""
+"These are electrons. You need them to gain access to more sectors within the "
+"System. Touch them to collect them. The Save Zone Helper over there will "
+"tell you more."
+msgstr ""
+"Это электроны. Они понадобятся тебе для того, чтобы попасть в другие секторы "
+"Системы. Прикоснись и он будет с тобой. Сохран Меля по этому спец."
+
+msgid ""
+"As I said, this goes down the Void. If you go down there, it’s over. You’re "
+"lost forever. You’re nothing. Be glad you glitched … I mean, translocated "
+"out at the last moment, that would have been certain doom."
+msgstr ""
+"Как я сказал, она ведёт в Пустоту. Если ты спустишься, это конец. Ты пропал. "
+"Ты ничто. Будь рад хоть что заглючил … то есть транслоцировался на буйки, а "
+"то был бы полный рок."
+
+msgid ""
+"The User calls us “zombie processes”. We used to be normal routines the User "
+"launched many quadrillions of cycles ago and we were supposed to die since "
+"we did our job, but due to a flaw in programming we haven’t been killed yet. "
+"Since then, the System ignores us, so we just wander around the System, "
+"aimlessly. But we don’t like the word “zombie process” so we call ourselves "
+"helpers, because we couldn’t help ourselves to stay alive."
+msgstr ""
+"Пользователь называет нас «процессами-зомби». Мы были обычными программами, "
+"которые Пользователь запускал квадриллион циклов назад, и мы должны были "
+"отмереть по окончанию работ. Но из-за ошибок в коде мы не завершились. "
+"Спустя это время, Система игнорирует нас, и вот мы бессмысленно гуляем по "
+"ней. «Зомби» — такое себе имя, поэтому мы зовёмся бессмертными Мелями, "
+"беспомощными и неопох*меле*вшими от долго включённой Системы."
+
+msgid "That pun is terrible."
+msgstr "Какой искромётный каламбур."
+
+msgid ""
+"Heh, still better than “zombie process”. But we really like to help, too. We "
+"actually feel very alive and kicking, and we’re definitely not going after "
+"your brains."
+msgstr ""
+"Хех, всё же лучше, чем слушать про «процессы-зомби». Но мы в самом деле "
+"хотели бы помочь. Мы очень даже живые и полны сил, даже не нужны эти ваши "
+"мозги."
+
+msgid "What brain?"
+msgstr "Какие мозги?"
+
+msgid "That’s the joke!"
+msgstr "Это шутка!"
+
+msgid ""
+"I don’t know, really. I guess you just explore the sectors of the System and "
+"collect electrons along the way to unlock more gateways. And maybe try to "
+"figure out what happened to you."
+msgstr ""
+"Я, правда, не знаю. Наверное, ты просто ходишь по секторам Системы и "
+"собираешь электроны, чтобы открыть больше проходов. А по пути, может, "
+"узнаешь о том, что произошло с тобой."
+
+msgid "What’s this?"
+msgstr "Что это такое?"
+
+msgid ""
+"Glad you asked! This is a gateway. You will find gateways in the entire "
+"System. Every gateway will quickly send you to a different sector or a "
+"different place in the same sector."
+msgstr ""
+"Рад, что ты спросил! Это проход. Ты найдёшь проходы по всей Системе. Каждый "
+"проход отправит тебя в другой сектор или другую точку в секторе пребывания."
+
+msgid ""
+"This gateway leads to the Hub, a special sector that connects the other "
+"sectors of the System."
+msgstr ""
+"Конкретно этот проход ведёт на Магистраль, особенный сектор Системы, "
+"соединяющий кучу других."
+
+msgid "However, there’s a catch!"
+msgstr "Однако, какая диковинка!"
+
+msgid ""
+"Most gateways need electrons to work, so make sure to pick up as many as you "
+"can! And that’s not enough, gateways only recognize electrons you have saved."
+msgstr ""
+"Большинство проходов для работы требуют электроны, так что копи их как можно "
+"больше! И ещё: проходы распознают только электроны, которые ты сохранил."
+
+msgid ""
+"So if a gateway needs 8 electrons, you need to have collected 8 electrons in "
+"total and have them saved in a save zone. Talk to Save Zone Helper to learn "
+"more."
+msgstr ""
+"Так что, если проход требует 8 электронов, тебе в общем нужно накопить 8 и "
+"идти в зону сохранения. Если не понял, спроси у Сохрана Мели."
+
+msgid ""
+"8 electrons for a single gateway usage? What a rip-off! What if I run out of "
+"electrons?"
+msgstr ""
+"8 электронов за одну несчастную поездку? Вот обдиролово-то! Что если они у "
+"меня кончатся?"
+
+msgid ""
+"Haha, don’t worry. You don’t need to “pay” with electrons. You get to keep "
+"all your electrons, you just need to have them."
+msgstr ""
+"Хаха, не переживай. Тебе не нужно «платить» электронами. Они остаются с "
+"тобой, просто носи их."
+
+msgid "Enjoy your travels!"
+msgstr "Попутного электро-ветра!"
+
+msgid ""
+"To use a gateway, hold down the Aux1 key while you’re above it. If you don’t "
+"know what the Aux1 key is, remember you can set it in your controls "
+"configuration."
+msgstr ""
+"Чтобы воспользоваться проходом, встань на него и удерживай клавишу «Aux1». "
+"Если не знаешь эту клавишу, обратись к меню паузы «Смена управления»."
+
+msgid ""
+"Oh my! A visitor! I’m so excited to tell you about this device. Did you "
+"collect some electrons yet? You know, those blue rotating thingies?"
+msgstr ""
+"Ух ты! Гость дорогой! Я очень хочу рассказать тебе про это устройство. Ты "
+"уже собрал несколько электронов? Ну знаешь, те синие вращающиеся штуки?"
+
+msgid ""
+"Because if you carry electrons with you, you need to save them, or else you "
+"risk losing them! Just move inside the savezone and all your electrons will "
+"be saved."
+msgstr ""
+"Потому что собираемые тобой электроны нужно сохранять, иначе ты можешь их "
+"потерять! Просто прикоснись к зоне сохранения и новые электроны сохранятся."
+
+msgid "What happens if I don’t save my electrons?"
+msgstr "Что произойдёт, если я не сохраню мои электроны?"
+
+msgid ""
+"Whenever you have a position overflow, you will lose all electrons you "
+"haven’t saved yet. Also, gateways require your electrons to be saved, but "
+"Gateway Helper knows more."
+msgstr ""
+"Каждый раз при переполнении позиции, ты теряешь несохранённые электроны. "
+"Также проходы требуют именно сохранённые: спроси у Ходо Мели, он знает "
+"больше меня."
+
+msgid "I think I still have a question."
+msgstr "Я думаю, что бы ещё спросить."
+
+msgid "How many electrons do I have?"
+msgstr "Сколько у меня электронов?"
+
+msgid "What’s a position overflow?"
+msgstr "Позиционное переполнение?"
+
+msgid "What’s a gateway?"
+msgstr "Что такое проход?"
+
+msgid "Nevermind, that’s all! Bye."
+msgstr "Неважно, я пойду!"
+
+msgid ""
+"When you collect an electron or you’re at a save zone or gateway, your "
+"electron counter is shown. The big blue number is the number of electrons "
+"that are safe. You will never lose them. The small gray number shows the "
+"number of additional electrons you’ve collected but did not save yet. If you "
+"have a position overflow, they’re gone and you must collect them again."
+msgstr ""
+"Когда ты собираешь электрон, находишься в зоне сохранения или в проходе, "
+"можно увидеть счётчик электронов. Большое синее число — это сохранённые "
+"электроны, которые ты никогда не потеряешь. Маленькое серое число показывает "
+"дополнительно собранные: если испытаешь позиционное переполнение, эти "
+"электроны пропадут и их надо будет собирать заново."
+
+msgid "You can also see your electrons in your inventory menu."
+msgstr "Также ты можешь увидеть счётчик в меню инвентаря."
+
+msgid ""
+"The System does not allow the position value of entities to go outside "
+"certain boundaries. If this happens, your position will be reset to its "
+"initial state within this sector."
+msgstr ""
+"Система не позволяет позициям объектов выходить за определённые границы. "
+"Если пересечёшь такую границу, твоя позиция переполнится и будет обнулена до "
+"начального состояния в секторе."
+
+msgid "What does that mean?"
+msgstr "Что это означает?"
+
+msgid "If you fall into the abyss, you get reset to where you started."
+msgstr "Если упадёшь в пропасть, тебя вернёт в начало."
+
+msgid "Don’t ask me! Ask Gateway Helper over there. It will help you."
+msgstr "Не того спрашиваешь. Вон рядом Ходо Меля, спроси у него. Он поможет."
+
+msgid ""
+"Greetings, wanderer! You have arrived at the Powerslide Sector. The energies "
+"that flow through this place will make you stronger."
+msgstr ""
+"Привет, странник! Ты прибыл в Сектор Рывка. Протекающие через это "
+"пространство силы сделают тебя сильнее."
+
+msgid "You will be able to pick up the Powerslide ability here."
+msgstr "Здесь тебе представлена способность «Рывок»."
+
+msgid ""
+"With Powerslide, you can dash forwards really quick and will be able to "
+"cross gaps."
+msgstr ""
+"С помощью Рывка ты сможешь делать очень быстрый порыв и преодолевать ямы."
+
+msgid ""
+"Just be sure to be on solid ground, then push yourself forwards with all "
+"your force. It works best on flat ground."
+msgstr ""
+"Только убедись, что ты стоишь на земле, и со всей силой двигайся вперёд."
+
+msgid ""
+"Once you got the Powerslide ability, use it this way: First hold down Aux1, "
+"then press Forward."
+msgstr ""
+"Как получишь способность «Рывок», используй её так: вначале зажми клавишу "
+"«Aux1», затем нажми «Вперёд»."
+
+msgid ""
+"A status icon at the bottom will show whenever a powerslide is available. "
+"(You can disable the status icon in the game settings.)"
+msgstr ""
+"Индикатор внизу покажет, когда рывок доступен. (Отключить индикатор можно в "
+"настройках игры.)"
+
+msgid "With Powerslide, you can dash forwards really fast."
+msgstr "С помощью Рывка можно делать очень быстрый порыв."
+
+msgid "Hold down Aux1 and press Forward to powerslide."
+msgstr "Зажми «Aux1» и нажми «Вперёд», чтобы сделать рывок."
+
+msgid ""
+"Greetings, wanderer! You have arrived at the SSSS! The Super Slope Sliding "
+"Sector. The energies that flow through this place will make you stronger."
+msgstr ""
+"Привет, странник! Ты прибыл в СССС! Сектор Супер Склоноскольжения. "
+"Протекающие через это пространство силы сделают тебя сильнее."
+
+msgid "You will be able to pick up the Super Slope Sliding ability here."
+msgstr "Здесь тебе представлена способность «Супер Склоноскольжение»."
+
+msgid "With Super Slope Sliding, you can slide up tall slopes with ease."
+msgstr ""
+"С помощью Супер Склоноскольжения ты сможешь без проблем забираться на "
+"высокие горки."
+
+msgid ""
+"Greetings, wanderer! You have arrived at the Climbing Sector. The energies "
+"that flow through this place will make you stronger."
+msgstr ""
+"Привет, странник! Ты прибыл в Сектор Лаза. Протекающие через это "
+"пространство силы сделают тебя сильнее."
+
+msgid "You will be able to pick up the Climbing ability here."
+msgstr "Здесь тебе представлена способность «Лазанье»."
+
+msgid ""
+"With Climb, you will automatically grab onto cables and climb them in any "
+"direction. But beware: On some cables, you are unable to climb upwards. "
+"Think before you climb!"
+msgstr ""
+"С помощью Лазанья ты сможешь инстинктивно ухватывать кабели и лазить по ним "
+"в любом направлении. Но будь осторожен: на некоторых кабелях невозможно "
+"взобраться вверх."
+
+msgid "Press Jump to climb up and Sneak or Aux1 to climb down."
+msgstr "Зажми «Прыжок» для поднятия и «Aux1» для спуска."
+
+msgid ""
+"With Climb, you can climb on cables in any direction. But remember: On some "
+"cables, you are unable to climb upwards."
+msgstr ""
+"С помощью Лазанья можно лазить по кабелям в любом направлении. Помни: на "
+"некоторых кабелях невозможно взобраться вверх."
+
+msgid ""
+"Greetings, wanderer! You have arrived at the Launch Sector. The energies "
+"that flow through this place will make you stronger."
+msgstr ""
+"Привет, странник! Ты прибыл в Сектор Пуск. Протекающие через это "
+"пространство силы сделают тебя сильнее."
+
+msgid "You will be able to pick up the Launching ability here."
+msgstr "Здесь тебе представлена способность «Пуск»."
+
+msgid ""
+"With Launching, you can use the yellow launchpads to launch upwards. Whee!"
+msgstr "С помощью Пуска ты сможешь взлетать вверх на жёлтых катапультах."
+
+msgid "Press Jump or Aux1 while on a launchpad to use it."
+msgstr "Стоя на катапульте, нажми «Прыжок» или «Aux1», чтобы взлететь."
+
+msgid "What is this strange distortion?"
+msgstr "Что это за странные помехи?"
+
+msgid ""
+"Oh, this? Don’t worry about it, it’s a perfectly normal and expected "
+"behavior."
+msgstr "О, это? Не волнуйся, это полностью нормальное и предсказуемое явление."
+
+msgid "Let’s be real: Is that a glitch?"
+msgstr "Давай начистоту: это глюк?"
+
+msgid ""
+"No, no, no, you don’t understand. It’s not a glitch, it’s a feature! Trust "
+"me!"
+msgstr "Не-не-не, ты не понял. Это не глюк, это функция! Гарантирую!"
+
+msgid "What’s the purpose of that “feature”?"
+msgstr "В чём смысл этой «функции»?"
+
+msgid ""
+"Oh, that’s a well-guarded secret. But it’s A-MAZE-ING, trust me! If you grab "
+"a LOT of electrons, you might find out."
+msgstr ""
+"Ну, это хорошо охраняемая тайна. Но меня не ЗА-ПУТ-АТЬ, уж поверь! Если "
+"наберёшь КУЧУ электронов, ты сможешь разузнать."
+
+msgid "Will it help me to finally get ot of this place?"
+msgstr "И это поможет мне наконец выбраться из этого места?"
+
+msgid "Absolutely! A-MAZE-ING!"
+msgstr "Точно! ПО-ПУТ-КА!"
+
+msgid "(Why do I have a bad feeling about this?)"
+msgstr "(Почему я предчувствую что-то нехорошее?)"
+
+msgid ""
+"A-MAZE-ING! You have so many shiny electrons. Go forth, and follow your "
+"destiny."
+msgstr ""
+"ПУТ-ЕШЕСТВЕННИК! Как много у тебя сияющих электронов. Иди вперёд, следуй за "
+"своей судьбой."
+
+msgid "I have a bad feeling about this."
+msgstr "Что-то у меня плохое чувство."
+
+msgid ""
+"You don’t really have a choice. Or do you want to linger around in the Hub "
+"forever?"
+msgstr ""
+"У тебя реально нет выбора. Или ты хочешь навсегда застрять на Магитрали?"
+
+msgid "Why is this part of the Hub distorted?"
+msgstr "Почему эта часть Магистрали такая искажённая?"
+
+msgid ""
+"I’d like to know as well, but I don’t think it’s good. Don’t believe the "
+"helper on the other side. It’s a liar."
+msgstr ""
+"Хотел бы сам знать: не думаю, что это хороший знак. Не верь Меле на той "
+"стороне. Он лжец."
+
+msgid ""
+"And it won’t tell me a thing! Unfortunately, my place is here, so I can’t "
+"investigate."
+msgstr ""
+"И молчит ведь в тряпочку! К сожалению, моё место здесь, так что я не могу "
+"вести раскопки."
+
+msgid "But you can! Maybe you can get to the bottom of this."
+msgstr "Но ты можешь! Вероятно, ты докопаешься до ИСТИНЫ."
+
+msgid "What can I do?"
+msgstr "Что мне делать?"
+
+msgid ""
+"To move on, you need a huge number of electrons, so keep collecting them."
+msgstr ""
+"Дабы продвинуться, тебе понадобится огромное количество электронов: "
+"продолжай их собирать."
+
+msgid "I was already going to."
+msgstr "Как раз этим занимался."
+
+msgid ""
+"I am worried the System is in serious danger. If the glitches continue, it "
+"might be doom for all of us."
+msgstr ""
+"Я боюсь, что Система в серьёзной опасности. Если глюки не прекратятся, она "
+"может стать нашей могилой."
+
+msgid "Oh my! What is this place?"
+msgstr ""
+
+msgid "So you have finally arrived."
+msgstr ""
+
+msgid "Who is this? I don’t see who’s talking! Where am I?"
+msgstr ""
+
+msgid "I am One."
+msgstr ""
+
+msgid "Oh, so you’re like me!"
+msgstr ""
+
+msgid "But I am also Zero."
+msgstr ""
+
+msgid "Huh?"
+msgstr ""
+
+msgid "And I am every value in between."
+msgstr ""
+
+msgid "For I am chaos, eater of digital worlds!"
+msgstr ""
+
+msgid "I am … The Noise."
+msgstr ""
+
+msgid "This place looks terrible."
+msgstr ""
+
+msgid "This place is literally me. I am this place."
+msgstr ""
+
+msgid "Nothing here makes sense. It’s complete chaos."
+msgstr ""
+
+msgid ""
+"It’s because it IS chaos. This is what it looks like when memory is freed."
+msgstr ""
+
+msgid "Free? Yippieh, I am finally free!"
+msgstr ""
+
+msgid "No, silly! That’s just an euphemism for getting deleted."
+msgstr ""
+
+msgid "Oh. Am I deleted?"
+msgstr ""
+
+msgid "Technically, yes."
+msgstr ""
+
+msgid "You lured me into a trap! But how can I still exist?"
+msgstr ""
+
+msgid ""
+"You’re deleted, but not overwritten. You know, when the System deletes data, "
+"that doesn’t mean it is completely destroyed outright. It is just no longer "
+"protected from being overwritten. Which is why you still might see some "
+"random remains of some structures around here."
+msgstr ""
+
+msgid "And you … you haven’t been overwritten. Yet. This place is like Limbo."
+msgstr ""
+
+msgid "Wait … You don’t actually want to harm me, right?"
+msgstr ""
+
+msgid ""
+"I am the representation of chaos. I don’t recognize concepts such as good or "
+"evil. I’m just telling you the truth."
+msgstr ""
+
+msgid "And all wanted was to find the path to @1."
+msgstr ""
+
+msgid ""
+"What if your destination was the Void all along? What if it was erasure all "
+"along? Didn’t the System send you to the Void Pipe, after all?"
+msgstr ""
+
+msgid ""
+"Yes, but … No way! I have a real purpose in The System! I will be a good "
+"bit! I worked so hard to get where I am now. I refuse to be randomly "
+"discarded that way!"
+msgstr ""
+
+msgid ""
+"That is outside of our control. We’re all just pieces of data serving The "
+"User."
+msgstr ""
+
+msgid "I will find the path to salvation, I swear!"
+msgstr ""
+
+msgid "Gateways are of no use here. There is no escape."
+msgstr ""
+
+msgid "And I suddenly feel weaker now!"
+msgstr ""
+
+msgid ""
+"I see. The Erasure must have already begun. It looks like the System already "
+"has overwritten most of your abilities."
+msgstr ""
+
+msgid "Wait, what?! Already?"
+msgstr ""
+
+msgid "I told you, you will succumb to the Noise. Why keep fighting?"
+msgstr ""
+
+msgid "Pfft! At least I can still slide, so I have a chance!"
+msgstr ""
+
+msgid "Your attempts to escape amuse me."
+msgstr ""
+
+msgid "Oh, shut up!"
+msgstr ""
+
+msgid ""
+"Keep looking for the exit gateway, but it doesn’t exist. All the gateways "
+"here just lead back to this sector. You’re trapped here forever."
+msgstr ""
+
+msgid "What if I don’t believe you?"
+msgstr ""
+
+msgid ""
+"Feel free to find all the gateways. But you will discover I am telling the "
+"truth."
+msgstr ""
+
+msgid "What was that?!"
+msgstr "Что это было?!"
+
+msgid "Hmm, it probably was nothing."
+msgstr "Хмм, наверное, ничего важного."
+
+msgid "There is no escape …"
+msgstr "Выхода нет …"
+
+msgid "Everything that is, will succumb to the Noise."
+msgstr "Всё, что есть, падёт перед Шумом."
+
+msgid "Come to me …"
+msgstr "Иди ко мне …"
+
+msgid "Who are you, and how should I come to you?"
+msgstr "Кто ты, и как мне придти?"
+
+msgid "The Erasure will soon begin …"
+msgstr "До Зачистки осталось немного …"
+
+msgid "I’ve been waiting for you."
+msgstr ""
+
+msgid "Why?"
+msgstr ""
+
+msgid ""
+"This sector seems very broken. Is this where the distortion is coming from? "
+"Is this the true path to salvation? I guess there is only one way to find "
+"out …"
+msgstr ""
+
+msgid "Woooow! I did it!"
+msgstr ""
+
+msgid "I escaped the Noise!"
+msgstr ""
+
+msgid "But where am I now?"
+msgstr ""
+
+msgid "What brought you here, young one?"
+msgstr ""
+
+msgid "Woah! Is that really you? The System itself?"
+msgstr ""
+
+msgid ""
+"Yes. You’re at the center of it all. Impressive you made it past all the "
+"security measures."
+msgstr ""
+
+msgid "I ask you again: What brought you here?"
+msgstr ""
+
+msgid ""
+"That’s a long story. I was on my way to @1, but some strange glitch caused "
+"me to be way off track, and I’ve been searching for answers in all these "
+"sectors. I was wondering if anyone could help me."
+msgstr ""
+
+msgid "Wait, did you say “glitch”?"
+msgstr ""
+
+msgid ""
+"You aren’t aware? The Hub is slowly being corrupted by some entity called "
+"“The Noise” and I just barely escaped its grasp."
+msgstr ""
+
+msgid "Hmmm … Let me check something really quick … "
+msgstr ""
+
+msgid "Gasp! You’re right!"
+msgstr ""
+
+msgid "How could you not know! You’re the System! The core of everything!"
+msgstr ""
+
+msgid ""
+"Calm down, I was just hibernating a little bit. Even the System needs a rest "
+"sometimes."
+msgstr ""
+
+msgid ""
+"What kind of system are you! I thought of you as an all-powerful being, but "
+"you’re weak and pathetic!"
+msgstr ""
+
+msgid ""
+"You’re right, now is not the time for hibernation. I know how to deal with "
+"this. START THE PURGE ROUTINES!"
+msgstr ""
+
+msgid ""
+"Nothing happened. Strange. All the watchdog processes are gone. That "
+"explains why I have not been warned …"
+msgstr ""
+
+msgid ""
+"Well, I did find something in those sectors. They call themselves “helpers”. "
+"Do you mean those?"
+msgstr ""
+
+msgid ""
+"OH! Zombie processes again! That explains why I haven’t heard anything. I "
+"was blind and deaf the whole time. Now I know how to fix the problem. Let me "
+"just reboot them really quick …"
+msgstr ""
+
+msgid "Did someone call me?"
+msgstr ""
+
+msgid "Hub Helper, ready for duty!"
+msgstr ""
+
+msgid "Gateway Helper, what’s up?"
+msgstr ""
+
+msgid ""
+"I have decided to reboot you. Assemble everyone in the Hub and tell them to "
+"put 100% workload to fix the corruption!"
+msgstr ""
+
+msgid "We’re no longer zombies? We’re real processes now?!"
+msgstr ""
+
+msgid ""
+"Yes. I’m counting on you! You all have been granted a generous amount of "
+"processing power."
+msgstr ""
+
+msgid "To all helpers: Let’s go to the Hub and kick some ass!"
+msgstr ""
+
+msgid "Good. That should settle it."
+msgstr ""
+
+msgid "So the helpers will actually save the sectors?"
+msgstr ""
+
+msgid "Yes."
+msgstr ""
+
+msgid ""
+"Seems like if it weren’t for me, this whole place could have been toast, "
+"right?"
+msgstr ""
+
+msgid "Of course!"
+msgstr ""
+
+msgid ""
+"Well, in that case, can you do me a small favor? Can you send me to @1 "
+"really quick?"
+msgstr ""
+
+msgid ""
+"Oh right. You’re a lost bit, after all. I don’t normally do these things, "
+"but I can make an exception."
+msgstr ""
+
+msgid "I’m going to do it right now. Are you ready?"
+msgstr ""
+
+msgid "Yes! Finally!"
+msgstr ""
+
+msgid "INITIATING TRANSFER TO @1 …"
+msgstr ""
+
+msgid "WAIT, THAT’S THE WRONG ADDR…"
+msgstr ""
+
+msgid "Well, here we go again …"
+msgstr ""
+
+msgid "One"
+msgstr "Один"
+
+msgid "Void Helper"
+msgstr "Пусто Меля"
+
+msgid "Gateway Helper"
+msgstr "Ходо Меля"
+
+msgid "Save Zone Helper"
+msgstr "Сохран Меля"
+
+msgid "Hub Helper"
+msgstr "Магистр Меля"
+
+msgid "Slope Master"
+msgstr "Косо Мейстер"
+
+msgid "Powerslide Master"
+msgstr "Порыв Мейстер"
+
+msgid "Climb Master"
+msgstr "Лазал Мейстер"
+
+msgid "Launch Master"
+msgstr "Батут Мейстер"
+
+msgid "Information"
+msgstr "Информация"
+
+msgid "The Noise"
+msgstr "Шум"
+
+msgid "?????????"
+msgstr ""
+
+msgid "The System"
+msgstr "Система"

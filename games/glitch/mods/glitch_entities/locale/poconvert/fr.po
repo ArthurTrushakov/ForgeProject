@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain glitch_entities x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-10-21 21:53+0000\n"
+"Last-Translator: Vulcain <akheron@zaclys.net>\n"
+"Language-Team: French <https://translate.codeberg.org/projects/glitch/"
+"glitch_entities/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.0.2\n"
+
+msgid "+@1"
+msgstr "+@1"
+
+msgid "Show the list of your collected electrons"
+msgstr ""
+
+msgid "No player."
+msgstr "Aucun joueur."
+
+msgid "Nothing collected."
+msgstr ""
+
+msgid "Safe electrons: @1"
+msgstr "Électrons saufs : @1"
+
+msgid "All electrons: @1"
+msgstr "Tous les électrons : @1"
+
+msgid "Remove all your collected and saved electrons (cannot be undone)"
+msgstr ""
+
+msgid "All your electrons are now gone."
+msgstr "Tous vos électrons ont désormais disparu."
+
+msgid "Electron Spawner"
+msgstr "Générateur d'électrons"
+
+msgid "Cube Spawner"
+msgstr "Générateur de Cube"
+
+msgid "Ability Spawner"
+msgstr "Générateur de Capacité"
+
+msgid "Falling Bit Spawner"
+msgstr ""

@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain glitch_levels x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: poconvert 0.0.1\n"
+
+msgid "Gateway to @1"
+msgstr "Gateway zu @1"
+
+msgid "@1 (bypassed)"
+msgstr "@1 (überbrückt)"
+
+msgid "@1"
+msgstr "@1"
+
+msgid "Electrons required: @1"
+msgstr "Benötigte Elektronen: @1"
+
+msgid "Hold down Aux1 to use the gateway"
+msgstr "Drücke Aux1, um das Gateway zu benutzen"
+
+msgid "Unlock (or lock) all gateways"
+msgstr "Entsperre (oder sperre) alle Gateways"
+
+msgid "The gateways are now locked and may require electrons to work."
+msgstr "Die Gateways sind jetzt gesperrt und benötigen evtl. zur Benutzung Elektronen."
+
+msgid "All gateways are now unlocked."
+msgstr "Alle Gateways sind entsperrt."
+
+msgid "Void Pipe"
+msgstr "Voidröhre"
+
+msgid "Data Cube Center"
+msgstr "Datenwürfelzentrum"
+
+msgid "Powerslide Playground"
+msgstr "Power-Gleiten-Testfeld"
+
+msgid "Powerslide Sector"
+msgstr "Power-Gleiten-Sektor"
+
+msgid "Transport Pipes"
+msgstr "Transportrohre"
+
+msgid "Super Slope Sliding Sector"
+msgstr "Steilschrägenschlittersektor"
+
+msgid "Far Lands"
+msgstr "Ferne Lande"
+
+msgid "Hub"
+msgstr "Hub"
+
+msgid "Tower"
+msgstr "Turm"
+
+msgid "Launching Sector"
+msgstr "Absprungsektor"
+
+msgid "Climbing Sector"
+msgstr "Klettersektor"
+
+msgid "System Core"
+msgstr "Systemkern"
+
+msgid "The System"
+msgstr "Das System"
+
+msgid "Teleport yourself to a given level"
+msgstr "Teleportieren Sie sich zu einem bestimmten Level"
+
+msgid "<level> [<spawn number>]"
+msgstr "<Level> [<Spawn-Nummer>]"
+
+msgid "No player."
+msgstr "Kein Spieler."
+
+msgid "Can't change level now!"
+msgstr "Das Level kann jetzt nicht gewechselt werden!"
+
+msgid "Invalid spawn number!"
+msgstr "Ungültige Spawn-Nummer!"
+
+msgid "Level ID does not exist! (use “/list_levels” for a list)"
+msgstr "Level-ID existiert nicht! („/list_levels“ für eine Liste)"
+
+msgid "Level spawn number does not exist!"
+msgstr "Level-Spawn-Nummer existiert nicht!"
+
+msgid "Restart the current level"
+msgstr "Aktuelles Level neustarten"
+
+msgid "Restart in progress."
+msgstr "Neustart aktiv."
+
+msgid "Shows a list of all levels"
+msgstr "Eine Liste aller Level anzeigen"
+
+msgid "* @1 (@2)"
+msgstr "* @1 (@2)"
+
+msgid "List of levels:"
+msgstr "Liste aller Level:"
+
+msgid "Electrons saved!"
+msgstr "Elektronen gespeichert!"
+

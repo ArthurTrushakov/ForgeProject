@@ -1,0 +1,17 @@
+# textdomain: glitch_nodeboxes
+Solid Slab (grid style)=
+Solid Slab (flat style)=
+Solid Slab (tile style)=
+Seethrough Slab=
+Solid Small Slope (grid style)=
+Solid Elevated Small Slope (grid style)=
+Solid Tall Slope (grid style)=
+Solid Small Slope (flat style)=
+Solid Elevated Small Slope (flat style)=
+Solid Tall Slope (flat style)=
+Solid Small Slope (tile style)=
+Solid Elevated Small Slope (tile style)=
+Solid Tall Slope (tile style)=
+Seethrough Slope=
+Seethrough Elevated Small Slope=
+Seethrough Tall Slope=

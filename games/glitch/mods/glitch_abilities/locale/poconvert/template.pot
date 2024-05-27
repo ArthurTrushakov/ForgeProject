@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain glitch_abilities x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: poconvert 0.0.1\n"
+
+msgid "Ability gained:"
+msgstr ""
+
+msgid "Ability lost:"
+msgstr ""
+
+msgid "Give/remove yourself an ability or list abilities"
+msgstr ""
+
+msgid "(add <ability>) | (remove <ability>) | list"
+msgstr ""
+
+msgid "No player."
+msgstr ""
+
+msgid "All abilities added."
+msgstr ""
+
+msgid "All abilities removed."
+msgstr ""
+
+msgid "Unknown ability."
+msgstr ""
+
+msgid "No abilities."
+msgstr ""
+
+msgid "Super Slope Sliding"
+msgstr ""
+
+msgid "Can slide up tall slopes"
+msgstr ""
+
+msgid "Sliding"
+msgstr ""
+
+msgid "Can slide on flat ground and small slopes"
+msgstr ""
+
+msgid "Press Forward/Backward/Left/Right key"
+msgstr ""
+
+msgid "Power-Sliding"
+msgstr ""
+
+msgid "Can use small speed boosts on the floor"
+msgstr ""
+
+msgid "Hold down Aux1 and press Forward"
+msgstr ""
+
+msgid "Climbing"
+msgstr ""
+
+msgid "Can climb at certain places"
+msgstr ""
+
+msgid "Press Jump to climb up; press Sneak key to climb down"
+msgstr ""
+
+msgid "Launching"
+msgstr ""
+
+msgid "Can use launchpads"
+msgstr ""
+
+msgid "Hold down Aux1 or Jump key on a launchpad"
+msgstr ""
+

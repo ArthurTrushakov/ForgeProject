@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain glitch_nodes x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: poconvert 0.0.1\n"
+
+msgid "Solid (Grid Style)"
+msgstr "Fest (Gitterstil)"
+
+msgid "Solid (Flat Style)"
+msgstr "Fest (glatter Stil)"
+
+msgid "Solid (Concentric Style)"
+msgstr "Fest (konzentrischer Stil)"
+
+msgid "Solid (Tile Style)"
+msgstr "Fest (Kachelstil)"
+
+msgid "Seethrough"
+msgstr "Durchsichtig"
+
+msgid "Gateway"
+msgstr "Gateway"
+
+msgid "Resetter"
+msgstr "Zurücksetzer"
+
+msgid "Resetter (no blackout)"
+msgstr "Zurücksetzer (keine Schwärzung)"
+
+msgid "Invisible Barrier"
+msgstr "Unsichtbare Barriere"
+
+msgid "System Node"
+msgstr "System-Node"
+
+msgid "Cable"
+msgstr "Kabel"
+
+msgid "Cable (not climbable)"
+msgstr "Kabel (kein Klettern)"
+
+msgid "Cable (no jump)"
+msgstr "Kabel (kein Springen)"
+
+msgid "Cable (no jump, not climbable)"
+msgstr "Kabel (kein Springen, kein Klettern)"
+
+msgid "Cable Connector"
+msgstr "Kabelverbinder"
+
+msgid "Cable Connector (no jump)"
+msgstr "Kabelverbinder (kein Springen)"
+
+msgid "Weak Bouncer"
+msgstr "Schwacher Abpraller"
+
+msgid "Full Bouncer"
+msgstr "Voll-Abpraller"
+
+msgid "Super Bouncer"
+msgstr "Super-Abpraller"
+
+msgid "Launchpad"
+msgstr "Absprungfeld"
+
+msgid "Lamp"
+msgstr "Lampe"
+
+msgid "Darkness"
+msgstr "Dunkelheit"
+
+msgid "Save Zone"
+msgstr "Speicherzone"
+
+msgid "Save Zone Block"
+msgstr "Speicherzonenblock"
+
+msgid "White Noise"
+msgstr "Weißes Rauschen"
+
+msgid "White Noise (temporary)"
+msgstr "Weißes Rauschen (temporär)"
+
+msgid "White Noise (ceiling)"
+msgstr "Weißes Rauschen (Decke)"
+
+msgid "White Noise (non-glowing)"
+msgstr "Weißes Rauschen (nicht leuchtend)"
+
+msgid "White Noise (movethrough)"
+msgstr "Weißes Rauschen (durchlässig)"
+
+msgid "Rainbow Noise"
+msgstr "Regenbogenrauschen"
+

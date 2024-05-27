@@ -1,0 +1,9 @@
+# textdomain: glitch_inventory_formspec
+Electrons=Elektrony
+Total: @1/@2=W sumie: @1/@2
+Total: @1+@2/@3=W sumie: @1+@2/@3
+This sector: @1/@2=Ten sektor: @1/@2
+This sector: @1+@2/@3=Ten sektor: @1+@2/@3
+Abilities=Zdolności
+(Usage: @1)=(Użycie: @1)
+None=Brak

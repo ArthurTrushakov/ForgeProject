@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain glitch_inventory_formspec x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-10-21 21:53+0000\n"
+"Last-Translator: Vulcain <akheron@zaclys.net>\n"
+"Language-Team: French <https://translate.codeberg.org/projects/glitch/"
+"glitch_inventory_formspec/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.0.2\n"
+
+msgid "Electrons"
+msgstr "Électrons"
+
+msgid "Total: @1/@2"
+msgstr "Total : @1/@2"
+
+msgid "Total: @1+@2/@3"
+msgstr "Total : @1+@2/@3"
+
+msgid "This sector: @1/@2"
+msgstr "Ce secteur : @1/@2"
+
+msgid "This sector: @1+@2/@3"
+msgstr "Ce secteur : @1+@2/@3"
+
+msgid "Abilities"
+msgstr "Capacités"
+
+msgid "(Usage: @1)"
+msgstr "(Utilisation : @1)"
+
+msgid "None"
+msgstr "Aucun"

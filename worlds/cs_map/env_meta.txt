@@ -1,0 +1,7 @@
+day_count = 4
+lbm_introduction_times = default:3dtorch~0;
+lbm_introduction_times_version = 1
+last_clear_objects_time = 0
+time_of_day = 6006
+game_time = 785
+EnvArgsEnd

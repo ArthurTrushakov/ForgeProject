@@ -1,0 +1,5 @@
+dofile(minetest.get_modpath("glitch_levels").."/api.lua")
+dofile(minetest.get_modpath("glitch_levels").."/levels.lua")
+dofile(minetest.get_modpath("glitch_levels").."/player.lua")
+dofile(minetest.get_modpath("glitch_levels").."/gateways.lua")
+dofile(minetest.get_modpath("glitch_levels").."/savezone.lua")

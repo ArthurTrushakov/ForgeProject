@@ -1,0 +1,9 @@
+# textdomain: glitch_inventory_formspec
+Electrons=Электроны
+Total: @1/@2=Итого: @1/@2
+Total: @1+@2/@3=Итого: @1+@2/@3
+This sector: @1/@2=В этом секторе: @1/@2
+This sector: @1+@2/@3=В этом секторе: @1+@2/@3
+Abilities=Способности
+(Usage: @1)=(Инструкция: @1)
+None=Отсутствуют

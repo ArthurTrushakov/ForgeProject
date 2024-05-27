@@ -1,0 +1,7 @@
+# textdomain:central_message
+Can use /cmsg=
+Show message in the center of the screen to player (“*” sends to all players)")=
+<player> <text>=
+Invalid usage, see “/help cmsg”.=
+Message sent.=
+The player @1 is not online.=

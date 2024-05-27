@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain glitch_levels x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: poconvert 0.0.1\n"
+
+msgid "Gateway to @1"
+msgstr ""
+
+msgid "@1 (bypassed)"
+msgstr ""
+
+msgid "@1"
+msgstr ""
+
+msgid "Electrons required: @1"
+msgstr ""
+
+msgid "Hold down Aux1 to use the gateway"
+msgstr ""
+
+msgid "Unlock (or lock) all gateways"
+msgstr ""
+
+msgid "The gateways are now locked and may require electrons to work."
+msgstr ""
+
+msgid "All gateways are now unlocked."
+msgstr ""
+
+msgid "Void Pipe"
+msgstr ""
+
+msgid "Data Cube Center"
+msgstr ""
+
+msgid "Powerslide Playground"
+msgstr ""
+
+msgid "Powerslide Sector"
+msgstr ""
+
+msgid "Transport Pipes"
+msgstr ""
+
+msgid "Super Slope Sliding Sector"
+msgstr ""
+
+msgid "Far Lands"
+msgstr ""
+
+msgid "Hub"
+msgstr ""
+
+msgid "Tower"
+msgstr ""
+
+msgid "Launching Sector"
+msgstr ""
+
+msgid "Climbing Sector"
+msgstr ""
+
+msgid "System Core"
+msgstr ""
+
+msgid "The System"
+msgstr ""
+
+msgid "Teleport yourself to a given level"
+msgstr ""
+
+msgid "<level> [<spawn number>]"
+msgstr ""
+
+msgid "No player."
+msgstr ""
+
+msgid "Can't change level now!"
+msgstr ""
+
+msgid "Invalid spawn number!"
+msgstr ""
+
+msgid "Level ID does not exist! (use “/list_levels” for a list)"
+msgstr ""
+
+msgid "Level spawn number does not exist!"
+msgstr ""
+
+msgid "Restart the current level"
+msgstr ""
+
+msgid "Restart in progress."
+msgstr ""
+
+msgid "Shows a list of all levels"
+msgstr ""
+
+msgid "* @1 (@2)"
+msgstr ""
+
+msgid "List of levels:"
+msgstr ""
+
+msgid "Electrons saved!"
+msgstr ""
+

@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain glitch_abilities x.x.x\n"
+"Report-Msgid-Bugs-To: Wuzzy@disroot.org\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-08-28 16:53+0000\n"
+"Last-Translator: vintprox <vintprox@gmail.com>\n"
+"Language-Team: Russian <https://translate.codeberg.org/projects/glitch/"
+"glitch_abilities/ru/>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.18.1\n"
+
+msgid "Ability gained:"
+msgstr "Получена способность:"
+
+msgid "Ability lost:"
+msgstr "Утеряна способность:"
+
+msgid "Give/remove yourself an ability or list abilities"
+msgstr "Получить/утерять или вывести способности"
+
+msgid "(add <ability>) | (remove <ability>) | list"
+msgstr "(add <способность>) | (remove <способность>) | list"
+
+msgid "No player."
+msgstr "Нет игрока."
+
+msgid "All abilities added."
+msgstr "Все способности получены."
+
+msgid "All abilities removed."
+msgstr "Все способности утеряны."
+
+msgid "Unknown ability."
+msgstr "Неизвестная способность."
+
+msgid "No abilities."
+msgstr "Нет способностей."
+
+msgid "Super Slope Sliding"
+msgstr "Супер Склоноскольжение"
+
+msgid "Can slide up tall slopes"
+msgstr "Способность забираться на высокие горки"
+
+msgid "Sliding"
+msgstr "Скольжение"
+
+msgid "Can slide on flat ground and small slopes"
+msgstr "Способность скользить на плоских поверхностях и маленьких горках"
+
+msgid "Press Forward/Backward/Left/Right key"
+msgstr "Зажимай клавишу «Вперёд»/«Назад»/«Влево»/«Вправо»"
+
+msgid "Power-Sliding"
+msgstr "Рывок"
+
+msgid "Can use small speed boosts on the floor"
+msgstr "Способность делать быстрый порыв от земли"
+
+msgid "Hold down Aux1 and press Forward"
+msgstr "Зажми «Aux1» и нажми «Вперёд»"
+
+msgid "Climbing"
+msgstr "Лазанье"
+
+msgid "Can climb at certain places"
+msgstr "Способность лазить по кабелям"
+
+msgid "Press Jump to climb up; press Sneak key to climb down"
+msgstr "Зажми «Прыжок» для поднятия; зажми «Красться» для спуска"
+
+msgid "Launching"
+msgstr "Пуск"
+
+msgid "Can use launchpads"
+msgstr "Способность прыгать на катапультах"
+
+msgid "Hold down Aux1 or Jump key on a launchpad"
+msgstr "Нажми «Aux1» или «Прыжок» на катапульте"

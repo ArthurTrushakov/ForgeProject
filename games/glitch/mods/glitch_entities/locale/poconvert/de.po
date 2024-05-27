@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain glitch_entities x.x.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: poconvert 0.0.1\n"
+
+msgid "+@1"
+msgstr "+@1"
+
+msgid "Show the list of your collected electrons"
+msgstr "Zeigt die Liste Ihrer gesammelten Elektronen"
+
+msgid "No player."
+msgstr "Kein Spieler."
+
+msgid "Nothing collected."
+msgstr "Nichts gesammelt."
+
+msgid "Safe electrons: @1"
+msgstr "Gespeicherte Elektronen: @1"
+
+msgid "All electrons: @1"
+msgstr "Alle Elektronen: @1"
+
+msgid "Remove all your collected and saved electrons (cannot be undone)"
+msgstr "Entfernt all Ihre gesammelten und gespeicherten Elektronen (kann nicht rückgängig gemacht werden)"
+
+msgid "All your electrons are now gone."
+msgstr "All Ihre Elektronen sind jetzt weg."
+
+msgid "Electron Spawner"
+msgstr "Elektronenspawner"
+
+msgid "Cube Spawner"
+msgstr "Würfelspawner"
+
+msgid "Ability Spawner"
+msgstr "Fähigkeitenspawner"
+
+msgid "Falling Bit Spawner"
+msgstr "Fallender-Bit-Spawner"
+

@@ -1,0 +1,25 @@
+# textdomain: glitch_abilities
+Ability gained:=Habilidad obtenida:
+Ability lost:=Habilidad perdida:
+Give/remove yourself an ability or list abilities=Otorga/elimina una habilidad o muestra el listado de habilidades
+(add <ability>) | (remove <ability>) | list=(add <habilidad>) | (remove <habilidad>) | list
+No player.=Sin jugador.
+All abilities added.=Agregadas todas las habilidades.
+All abilities removed.=Eliminadas todas las habilidades.
+Unknown ability.=Habilidad desconocida.
+No abilities.=Sin habilidades.
+Super Slope Sliding=Deslizamiento en pendiente
+Can slide up tall slopes=Puedes deslizarte por pendientes altas
+Sliding=Deslizante
+Can slide on flat ground and small slopes=Puedes deslizarte por terrenos planos y pequeñas pendientes
+Press Forward/Backward/Left/Right key=Presiona Adelante/Atrás/Izquierda/Derecha
+Power-Sliding=Deslizamiento electrizante
+Can use small speed boosts on the floor=Puedes usar pequeños impulsos de velocidad sobre el piso
+Hold down Aux1 and press Forward=Mantén presionado Aux1 y presiona Adelante
+Climbing=Escalada
+Can climb at certain places=Puedes escalar ciertos lugares
+Press Jump to climb up; press Sneak key to climb down=Presiona Saltar para ascender; presiona la tecla de Sigilo para descender
+Launching=Lanzamiento
+Can use launchpads=Puedes usar plataformas de lanzamiento
+Hold down Aux1 or Jump key on a launchpad=Manten presionado Aux1 o la tecla de salto sobre una plataforma de lanzamiento
+Press Up/Down/Left/Right key=Presiona Arriba/Abajo/Izquierda/Derecha

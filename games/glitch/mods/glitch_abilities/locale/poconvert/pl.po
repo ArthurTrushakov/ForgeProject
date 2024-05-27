@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minetest textdomain glitch_abilities x.x.x\n"
+"Report-Msgid-Bugs-To: Wuzzy@disroot.org\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-09-16 18:53+0000\n"
+"Last-Translator: Eryk Michalak <gnu.ewm@protonmail.com>\n"
+"Language-Team: Polish <https://translate.codeberg.org/projects/glitch/"
+"glitch_abilities/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.0.1\n"
+
+msgid "Ability gained:"
+msgstr ""
+
+msgid "Ability lost:"
+msgstr ""
+
+msgid "Give/remove yourself an ability or list abilities"
+msgstr ""
+
+msgid "(add <ability>) | (remove <ability>) | list"
+msgstr ""
+
+msgid "No player."
+msgstr "Brak graczy."
+
+msgid "All abilities added."
+msgstr ""
+
+msgid "All abilities removed."
+msgstr ""
+
+msgid "Unknown ability."
+msgstr ""
+
+msgid "No abilities."
+msgstr ""
+
+msgid "Super Slope Sliding"
+msgstr ""
+
+msgid "Can slide up tall slopes"
+msgstr ""
+
+msgid "Sliding"
+msgstr ""
+
+msgid "Can slide on flat ground and small slopes"
+msgstr ""
+
+msgid "Press Forward/Backward/Left/Right key"
+msgstr ""
+
+msgid "Power-Sliding"
+msgstr ""
+
+msgid "Can use small speed boosts on the floor"
+msgstr ""
+
+msgid "Hold down Aux1 and press Forward"
+msgstr ""
+
+msgid "Climbing"
+msgstr ""
+
+msgid "Can climb at certain places"
+msgstr ""
+
+msgid "Press Jump to climb up; press Sneak key to climb down"
+msgstr ""
+
+msgid "Launching"
+msgstr ""
+
+msgid "Can use launchpads"
+msgstr ""
+
+msgid "Hold down Aux1 or Jump key on a launchpad"
+msgstr ""

@@ -1,0 +1,10 @@
+How to Builda City
+
+Welcome [name]! As our newest employee, it's your job is to sell our energy to the world.
+
+You see, we've been investing in worldwide energy supply infrastructure and now all that's left is to induce some demand...
+
+Powercraft Controls:
+Use your scrollwheel to select what you want to build, then right click to build. You can charge and supply energy with a left click. Oh and one more thing! Hold E while moving for some BOOST.
+
+So go on, what are you waiting for? Build a City!
